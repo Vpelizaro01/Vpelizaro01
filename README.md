@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Vinicius Pelizaro tenho 23 e curso minha primeira graduação.</p>
+<p align="left">Meu nome é Vinicius Pelizaro tenho 23 anos e curso minha primeira graduação.</p>
 
 ###
 
